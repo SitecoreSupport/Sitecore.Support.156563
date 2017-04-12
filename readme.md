@@ -1,5 +1,5 @@
 # Sitecore.Support.156563
-Lock and Edit button in the Experience Editor may erase a workflow state of the context item
+Losing Workflow state when clicking on “Lock and Edit” in the Experience Editor
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.156563/blob/master/LICENSE).  
